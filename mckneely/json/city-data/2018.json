@@ -1,0 +1,1002 @@
+[
+  {
+    "city": "Oakland",
+    "population": 424998,
+    "murder_homicide": 20,
+    "rape": 65.2,
+    "robbery": 723.8,
+    "assault": 616.7,
+    "burglary": 682.4,
+    "violent_crime": 1425.7
+  },
+  {
+    "city": "Stockton",
+    "population": 308348,
+    "murder_homicide": 15.9,
+    "rape": 41.5,
+    "robbery": 384.3,
+    "assault": 979.1,
+    "burglary": 730,
+    "violent_crime": 1420.8
+  },
+  {
+    "city": "San Bernardino",
+    "population": 217303,
+    "murder_homicide": 28.5,
+    "rape": 56.6,
+    "robbery": 415.5,
+    "assault": 823.7,
+    "burglary": 1082.8,
+    "violent_crime": 1324.4
+  },
+  {
+    "city": "Compton",
+    "population": 98861,
+    "murder_homicide": 35.4,
+    "rape": 38.4,
+    "robbery": 369.2,
+    "assault": 699,
+    "burglary": 375.3,
+    "violent_crime": 1142
+  },
+  {
+    "city": "Modesto",
+    "population": 212880,
+    "murder_homicide": 6.1,
+    "rape": 48.4,
+    "robbery": 225.9,
+    "assault": 707.9,
+    "burglary": 667.5,
+    "violent_crime": 988.4
+  },
+  {
+    "city": "Richmond",
+    "population": 110868,
+    "murder_homicide": 18.9,
+    "rape": 64.9,
+    "robbery": 328.3,
+    "assault": 506.9,
+    "burglary": 581.8,
+    "violent_crime": 919.1
+  },
+  {
+    "city": "Vallejo",
+    "population": 122293,
+    "murder_homicide": 12.3,
+    "rape": 90.8,
+    "robbery": 288.7,
+    "assault": 469.4,
+    "burglary": 1934.7,
+    "violent_crime": 861
+  },
+  {
+    "city": "Santa Cruz",
+    "population": 64969,
+    "murder_homicide": 6.2,
+    "rape": 69.3,
+    "robbery": 163.2,
+    "assault": 563.3,
+    "burglary": 544.9,
+    "violent_crime": 801.9
+  },
+  {
+    "city": "Redding",
+    "population": 91918,
+    "murder_homicide": 5.4,
+    "rape": 91.4,
+    "robbery": 155.6,
+    "assault": 530.9,
+    "burglary": 772.4,
+    "violent_crime": 783.3
+  },
+  {
+    "city": "Madera",
+    "population": 64753,
+    "murder_homicide": 4.6,
+    "rape": 34,
+    "robbery": 151.3,
+    "assault": 589.9,
+    "burglary": 458.7,
+    "violent_crime": 779.9
+  },
+  {
+    "city": "Huntington Park",
+    "population": 59692,
+    "murder_homicide": 3.4,
+    "rape": 46.9,
+    "robbery": 361.9,
+    "assault": 363.5,
+    "burglary": 348.5,
+    "violent_crime": 775.6
+  },
+  {
+    "city": "Inglewood",
+    "population": 112059,
+    "murder_homicide": 14.3,
+    "rape": 50,
+    "robbery": 362.3,
+    "assault": 314.1,
+    "burglary": 390,
+    "violent_crime": 740.7
+  },
+  {
+    "city": "Hawthorne",
+    "population": 89299,
+    "murder_homicide": 7.8,
+    "rape": 44.8,
+    "robbery": 333.7,
+    "assault": 346,
+    "burglary": 495,
+    "violent_crime": 732.4
+  },
+  {
+    "city": "Hemet",
+    "population": 84838,
+    "murder_homicide": 5.9,
+    "rape": 48.3,
+    "robbery": 200.4,
+    "assault": 469.1,
+    "burglary": 900.5,
+    "violent_crime": 723.7
+  },
+  {
+    "city": "Los Angeles",
+    "population": 4007905,
+    "murder_homicide": 7.3,
+    "rape": 58.5,
+    "robbery": 257.2,
+    "assault": 396.1,
+    "burglary": 394.7,
+    "violent_crime": 719
+  },
+  {
+    "city": "Sacramento",
+    "population": 495471,
+    "murder_homicide": 8.3,
+    "rape": 17.8,
+    "robbery": 229.3,
+    "assault": 461,
+    "burglary": 619.6,
+    "violent_crime": 716.3
+  },
+  {
+    "city": "San Francisco",
+    "population": 871155,
+    "murder_homicide": 6.5,
+    "rape": 39.3,
+    "robbery": 4.4,
+    "assault": 300.3,
+    "burglary": 571.4,
+    "violent_crime": 710.6
+  },
+  {
+    "city": "South Gate",
+    "population": 96791,
+    "murder_homicide": 5.2,
+    "rape": 30,
+    "robbery": 258.3,
+    "assault": 388.5,
+    "burglary": 523.8,
+    "violent_crime": 681.9
+  },
+  {
+    "city": "Lancaster",
+    "population": 161963,
+    "murder_homicide": 4.3,
+    "rape": 45.1,
+    "robbery": 21,
+    "assault": 421.7,
+    "burglary": 653.9,
+    "violent_crime": 681
+  },
+  {
+    "city": "Antioch",
+    "population": 112090,
+    "murder_homicide": 8,
+    "rape": 49.1,
+    "robbery": 261.4,
+    "assault": 359.5,
+    "burglary": 679.8,
+    "violent_crime": 678
+  },
+  {
+    "city": "Lynwood",
+    "population": 72471,
+    "murder_homicide": 12.4,
+    "rape": 42.8,
+    "robbery": 271.8,
+    "assault": 320.1,
+    "burglary": 338.1,
+    "violent_crime": 647.2
+  },
+  {
+    "city": "Salinas",
+    "population": 158729,
+    "murder_homicide": 22.1,
+    "rape": 54.2,
+    "robbery": 204.8,
+    "assault": 352.2,
+    "burglary": 437.9,
+    "violent_crime": 633.2
+  },
+  {
+    "city": "Fresno",
+    "population": 524796,
+    "murder_homicide": 7.4,
+    "rape": 30.1,
+    "robbery": 213.8,
+    "assault": 359.6,
+    "burglary": 704.5,
+    "violent_crime": 610.9
+  },
+  {
+    "city": "Victorville",
+    "population": 123438,
+    "murder_homicide": 5.7,
+    "rape": 37.3,
+    "robbery": 181.5,
+    "assault": 381.6,
+    "burglary": 772,
+    "violent_crime": 606
+  },
+  {
+    "city": "Long Beach",
+    "population": 476476,
+    "murder_homicide": 6.9,
+    "rape": 41.3,
+    "robbery": 238.8,
+    "assault": 310.2,
+    "burglary": 627.1,
+    "violent_crime": 597.3
+  },
+  {
+    "city": "Merced",
+    "population": 83106,
+    "murder_homicide": 1.2,
+    "rape": 42.1,
+    "robbery": 161.2,
+    "assault": 383.8,
+    "burglary": 671.4,
+    "violent_crime": 588.4
+  },
+  {
+    "city": "Paramount",
+    "population": 55673,
+    "murder_homicide": 7.2,
+    "rape": 32.3,
+    "robbery": 269.4,
+    "assault": 253.3,
+    "burglary": 405.9,
+    "violent_crime": 562.2
+  },
+  {
+    "city": "Gardena",
+    "population": 60770,
+    "murder_homicide": 4.9,
+    "rape": 39.5,
+    "robbery": 306.1,
+    "assault": 248.5,
+    "burglary": 584.2,
+    "violent_crime": 556.2
+  },
+  {
+    "city": "Carson",
+    "population": 93613,
+    "murder_homicide": 10.7,
+    "rape": 24.6,
+    "robbery": 176.3,
+    "assault": 327.9,
+    "burglary": 469,
+    "violent_crime": 539.5
+  },
+  {
+    "city": "Lodi",
+    "population": 65067,
+    "murder_homicide": 7.7,
+    "rape": 13.8,
+    "robbery": 129.1,
+    "assault": 388.8,
+    "burglary": 673.2,
+    "violent_crime": 539.4
+  },
+  {
+    "city": "San Leandro",
+    "population": 91870,
+    "murder_homicide": 3.3,
+    "rape": 33.7,
+    "robbery": 1321.4,
+    "assault": 188.3,
+    "burglary": 543.2,
+    "violent_crime": 530.1
+  },
+  {
+    "city": "Riverside",
+    "population": 325896,
+    "murder_homicide": 3.1,
+    "rape": 43.3,
+    "robbery": 179.8,
+    "assault": 302.9,
+    "burglary": 606.6,
+    "violent_crime": 529
+  },
+  {
+    "city": "Turlock",
+    "population": 73031,
+    "murder_homicide": 9.6,
+    "rape": 31.5,
+    "robbery": 127.3,
+    "assault": 357.4,
+    "burglary": 649,
+    "violent_crime": 525.8
+  },
+  {
+    "city": "Santa Monica",
+    "population": 93921,
+    "murder_homicide": 2.1,
+    "rape": 42.6,
+    "robbery": 201.2,
+    "assault": 259.8,
+    "burglary": 663.3,
+    "violent_crime": 505.7
+  },
+  {
+    "city": "Delano",
+    "population": 52656,
+    "murder_homicide": 13.3,
+    "rape": 17.1,
+    "robbery": 3.8,
+    "assault": 421.6,
+    "burglary": 579.2,
+    "violent_crime": 501.4
+  },
+  {
+    "city": "Pomona",
+    "population": 154109,
+    "murder_homicide": 8.4,
+    "rape": 44.1,
+    "robbery": 191.4,
+    "assault": 253.7,
+    "burglary": 553.5,
+    "violent_crime": 497.7
+  },
+  {
+    "city": "Bellflower",
+    "population": 78806,
+    "murder_homicide": 5.1,
+    "rape": 39.3,
+    "robbery": 81.2,
+    "assault": 250,
+    "burglary": 574.8,
+    "violent_crime": 497.4
+  },
+  {
+    "city": "Berkeley",
+    "population": 122651,
+    "murder_homicide": 1.6,
+    "rape": 44,
+    "robbery": 294.3,
+    "assault": 150.8,
+    "burglary": 656.3,
+    "violent_crime": 490.8
+  },
+  {
+    "city": "Indio",
+    "population": 89201,
+    "murder_homicide": 5.6,
+    "rape": 29.1,
+    "robbery": 98.7,
+    "assault": 356.5,
+    "burglary": 448.4,
+    "violent_crime": 489.9
+  },
+  {
+    "city": "Bakersfield",
+    "population": 378788,
+    "murder_homicide": 8.4,
+    "rape": 17.7,
+    "robbery": 162.1,
+    "assault": 292.5,
+    "burglary": 1026.2,
+    "violent_crime": 480.7
+  },
+  {
+    "city": "Santa Ana",
+    "population": 337419,
+    "murder_homicide": 6.8,
+    "rape": 42.1,
+    "robbery": 151.4,
+    "assault": 277.4,
+    "burglary": 331.6,
+    "violent_crime": 477.7
+  },
+  {
+    "city": "Santa Maria",
+    "population": 106200,
+    "murder_homicide": 8.5,
+    "rape": 42.4,
+    "robbery": 158.2,
+    "assault": 267.4,
+    "burglary": 490.6,
+    "violent_crime": 476.5
+  },
+  {
+    "city": "Hanford",
+    "population": 55973,
+    "murder_homicide": 3.6,
+    "rape": 37.5,
+    "robbery": 78.6,
+    "assault": 355.5,
+    "burglary": 396.6,
+    "violent_crime": 475.2
+  },
+  {
+    "city": "Oxnard",
+    "population": 209048,
+    "murder_homicide": 5.7,
+    "rape": 33,
+    "robbery": 205.2,
+    "assault": 209.5,
+    "burglary": 467.8,
+    "violent_crime": 453.5
+  },
+  {
+    "city": "Citrus Heights",
+    "population": 87811,
+    "murder_homicide": 3.4,
+    "rape": 43.3,
+    "robbery": 100.2,
+    "assault": 304.1,
+    "burglary": 455.5,
+    "violent_crime": 451
+  },
+  {
+    "city": "Watsonville",
+    "population": 54110,
+    "murder_homicide": 0,
+    "rape": 48.1,
+    "robbery": 85,
+    "assault": 306.8,
+    "burglary": 395.5,
+    "violent_crime": 439.8
+  },
+  {
+    "city": "Palmdale",
+    "population": 159441,
+    "murder_homicide": 5,
+    "rape": 28.2,
+    "robbery": 42,
+    "assault": 264.7,
+    "burglary": 405.2,
+    "violent_crime": 437.2
+  },
+  {
+    "city": "West Sacramento",
+    "population": 53532,
+    "murder_homicide": 0,
+    "rape": 31.8,
+    "robbery": 3.7,
+    "assault": 226,
+    "burglary": 356.8,
+    "violent_crime": 435.3
+  },
+  {
+    "city": "Rialto",
+    "population": 103893,
+    "murder_homicide": 3.9,
+    "rape": 21.2,
+    "robbery": 153,
+    "assault": 256,
+    "burglary": 534.2,
+    "violent_crime": 434.1
+  },
+  {
+    "city": "National City",
+    "population": 61550,
+    "murder_homicide": 4.9,
+    "rape": 21.1,
+    "robbery": 175.5,
+    "assault": 232.3,
+    "burglary": 295.7,
+    "violent_crime": 433.8
+  },
+  {
+    "city": "Highland",
+    "population": 55184,
+    "murder_homicide": 5.4,
+    "rape": 18.1,
+    "robbery": 143.2,
+    "assault": 266.4,
+    "burglary": 550.9,
+    "violent_crime": 433.1
+  },
+  {
+    "city": "Apple Valley",
+    "population": 72757,
+    "murder_homicide": 5.5,
+    "rape": 35.7,
+    "robbery": 101.7,
+    "assault": 288.6,
+    "burglary": 573.1,
+    "violent_crime": 431.6
+  },
+  {
+    "city": "Santa Barbara",
+    "population": 92519,
+    "murder_homicide": 0,
+    "rape": 94,
+    "robbery": 88.6,
+    "assault": 246.4,
+    "burglary": 468,
+    "violent_crime": 429.1
+  },
+  {
+    "city": "San Rafael",
+    "population": 59435,
+    "murder_homicide": 0,
+    "rape": 47.1,
+    "robbery": 74,
+    "assault": 185.1,
+    "burglary": 429,
+    "violent_crime": 418.9
+  },
+  {
+    "city": "Moreno Valley",
+    "population": 206224,
+    "murder_homicide": 4.4,
+    "rape": 8.2,
+    "robbery": 165.4,
+    "assault": 240.5,
+    "burglary": 469.9,
+    "violent_crime": 418.5
+  },
+  {
+    "city": "Fairfield",
+    "population": 114521,
+    "murder_homicide": 6.1,
+    "rape": 48.9,
+    "robbery": 128.4,
+    "assault": 232.3,
+    "burglary": 366.7,
+    "violent_crime": 415.6
+  },
+  {
+    "city": "Fontana",
+    "population": 209531,
+    "murder_homicide": 6.7,
+    "rape": 32.9,
+    "robbery": 104,
+    "assault": 271.6,
+    "burglary": 332.6,
+    "violent_crime": 415.2
+  },
+  {
+    "city": "Yuba City",
+    "population": 67198,
+    "murder_homicide": 11.9,
+    "rape": 35.7,
+    "robbery": 113.1,
+    "assault": 244.1,
+    "burglary": 604.2,
+    "violent_crime": 404.8
+  },
+  {
+    "city": "Pittsburg",
+    "population": 70663,
+    "murder_homicide": 9.9,
+    "rape": 59.4,
+    "robbery": 164.2,
+    "assault": 159.9,
+    "burglary": 479.7,
+    "violent_crime": 393.4
+  },
+  {
+    "city": "Hayward",
+    "population": 161122,
+    "murder_homicide": 8.1,
+    "rape": 41,
+    "robbery": 216,
+    "assault": 126.6,
+    "burglary": 438.8,
+    "violent_crime": 391.6
+  },
+  {
+    "city": "Norwalk",
+    "population": 107453,
+    "murder_homicide": 6.5,
+    "rape": 16.8,
+    "robbery": 129.4,
+    "assault": 237.3,
+    "burglary": 346.2,
+    "violent_crime": 389.9
+  },
+  {
+    "city": "Colton",
+    "population": 55100,
+    "murder_homicide": 3.6,
+    "rape": 18.1,
+    "robbery": 177.9,
+    "assault": 186.9,
+    "burglary": 551.7,
+    "violent_crime": 386.6
+  },
+  {
+    "city": "El Monte",
+    "population": 117354,
+    "murder_homicide": 2.6,
+    "rape": 26.4,
+    "robbery": 80.1,
+    "assault": 210.5,
+    "burglary": 575.2,
+    "violent_crime": 381.8
+  },
+  {
+    "city": "Porterville",
+    "population": 56421,
+    "murder_homicide": 0,
+    "rape": 28.4,
+    "robbery": 53.2,
+    "assault": 260.5,
+    "burglary": 496.3,
+    "violent_crime": 381.1
+  },
+  {
+    "city": "El Cajon",
+    "population": 104483,
+    "murder_homicide": 1,
+    "rape": 44,
+    "robbery": 139.7,
+    "assault": 193.3,
+    "burglary": 410.6,
+    "violent_crime": 378.1
+  },
+  {
+    "city": "San Diego",
+    "population": 1413414,
+    "murder_homicide": 3.5,
+    "rape": 40.5,
+    "robbery": 0.3,
+    "assault": 235.1,
+    "burglary": 335.6,
+    "violent_crime": 377.2
+  },
+  {
+    "city": "Baldwin Park",
+    "population": 77400,
+    "murder_homicide": 6.5,
+    "rape": 40.1,
+    "robbery": 94.3,
+    "assault": 235.1,
+    "burglary": 459.9,
+    "violent_crime": 376
+  },
+  {
+    "city": "San Jose",
+    "population": 1041844,
+    "murder_homicide": 4.5,
+    "rape": 43.3,
+    "robbery": 1.6,
+    "assault": 208.8,
+    "burglary": 408.9,
+    "violent_crime": 373.1
+  },
+  {
+    "city": "Santa Rosa",
+    "population": 176383,
+    "murder_homicide": 2.8,
+    "rape": 53.3,
+    "robbery": 68.6,
+    "assault": 248.3,
+    "burglary": 292.5,
+    "violent_crime": 373.1
+  },
+  {
+    "city": "Union City",
+    "population": 75501,
+    "murder_homicide": 1.3,
+    "rape": 15.9,
+    "robbery": 147,
+    "assault": 207.9,
+    "burglary": 394.7,
+    "violent_crime": 372.2
+  },
+  {
+    "city": "Woodland",
+    "population": 59190,
+    "murder_homicide": 5.1,
+    "rape": 23.7,
+    "robbery": 91.2,
+    "assault": 248.4,
+    "burglary": 373.4,
+    "violent_crime": 368.3
+  },
+  {
+    "city": "Visalia",
+    "population": 131186,
+    "murder_homicide": 6.1,
+    "rape": 51.8,
+    "robbery": 91.5,
+    "assault": 216.5,
+    "burglary": 760.8,
+    "violent_crime": 365.9
+  },
+  {
+    "city": "Napa",
+    "population": 81115,
+    "murder_homicide": 1.2,
+    "rape": 46.8,
+    "robbery": 57.9,
+    "assault": 258.9,
+    "burglary": 538.7,
+    "violent_crime": 364.9
+  },
+  {
+    "city": "Vista",
+    "population": 102307,
+    "murder_homicide": 2,
+    "rape": 40.1,
+    "robbery": 96.8,
+    "assault": 224.8,
+    "burglary": 343.1,
+    "violent_crime": 363.6
+  },
+  {
+    "city": "Escondido",
+    "population": 152897,
+    "murder_homicide": 2.6,
+    "rape": 31.4,
+    "robbery": 98.1,
+    "assault": 230.9,
+    "burglary": 271.4,
+    "violent_crime": 363
+  },
+  {
+    "city": "Costa Mesa",
+    "population": 113816,
+    "murder_homicide": 0.9,
+    "rape": 52.7,
+    "robbery": 127.4,
+    "assault": 181,
+    "burglary": 645.8,
+    "violent_crime": 362
+  },
+  {
+    "city": "Oceanside",
+    "population": 177340,
+    "murder_homicide": 4.5,
+    "rape": 31.6,
+    "robbery": 97,
+    "assault": 227.2,
+    "burglary": 342.3,
+    "violent_crime": 360.3
+  },
+  {
+    "city": "Tulare",
+    "population": 62902,
+    "murder_homicide": 9.5,
+    "rape": 20.7,
+    "robbery": 90.6,
+    "assault": 235.3,
+    "burglary": 464.2,
+    "violent_crime": 356.1
+  },
+  {
+    "city": "Hesperia",
+    "population": 93888,
+    "murder_homicide": 3.2,
+    "rape": 32,
+    "robbery": 98,
+    "assault": 222.6,
+    "burglary": 486.8,
+    "violent_crime": 355.7
+  },
+  {
+    "city": "Ontario",
+    "population": 172606,
+    "murder_homicide": 4.6,
+    "rape": 18.5,
+    "robbery": 131.5,
+    "assault": 194.1,
+    "burglary": 512.7,
+    "violent_crime": 348.8
+  },
+  {
+    "city": "Azusa",
+    "population": 50393,
+    "murder_homicide": 2,
+    "rape": 35.7,
+    "robbery": 91.3,
+    "assault": 218.3,
+    "burglary": 517.9,
+    "violent_crime": 347.3
+  },
+  {
+    "city": "Concord",
+    "population": 129903,
+    "murder_homicide": 0.8,
+    "rape": 23.9,
+    "robbery": 122.4,
+    "assault": 197.1,
+    "burglary": 401.1,
+    "violent_crime": 344.1
+  },
+  {
+    "city": "Anaheim",
+    "population": 353504,
+    "murder_homicide": 2,
+    "rape": 34.8,
+    "robbery": 110.3,
+    "assault": 194.9,
+    "burglary": 415.6,
+    "violent_crime": 342
+  },
+  {
+    "city": "Pico Rivera",
+    "population": 64469,
+    "murder_homicide": 3.1,
+    "rape": 18.6,
+    "robbery": 111.7,
+    "assault": 207.9,
+    "burglary": 508.8,
+    "violent_crime": 341.2
+  },
+  {
+    "city": "Rancho Cordova",
+    "population": 72265,
+    "murder_homicide": 1.4,
+    "rape": 23.5,
+    "robbery": 102.4,
+    "assault": 211.7,
+    "burglary": 422.1,
+    "violent_crime": 339
+  },
+  {
+    "city": "Gilroy",
+    "population": 54130,
+    "murder_homicide": 0,
+    "rape": 55.4,
+    "robbery": 105.3,
+    "assault": 175.5,
+    "burglary": 471.1,
+    "violent_crime": 336.2
+  },
+  {
+    "city": "Jurupa Valley",
+    "population": 101316,
+    "murder_homicide": 6.9,
+    "rape": 17.8,
+    "robbery": 75,
+    "assault": 235.9,
+    "burglary": 469.8,
+    "violent_crime": 335.6
+  },
+  {
+    "city": "Ventura",
+    "population": 110228,
+    "murder_homicide": 7.3,
+    "rape": 48.1,
+    "robbery": 98.9,
+    "assault": 179.6,
+    "burglary": 569.7,
+    "violent_crime": 333.9
+  },
+  {
+    "city": "Westminster",
+    "population": 92582,
+    "murder_homicide": 2.2,
+    "rape": 33.5,
+    "robbery": 0,
+    "assault": 194.4,
+    "burglary": 571.4,
+    "violent_crime": 333.8
+  },
+  {
+    "city": "Montebello",
+    "population": 64206,
+    "murder_homicide": 0,
+    "rape": 10.9,
+    "robbery": 45.2,
+    "assault": 144.8,
+    "burglary": 1281.8,
+    "violent_crime": 333.3
+  },
+  {
+    "city": "Pasadena",
+    "population": 143288,
+    "murder_homicide": 1.4,
+    "rape": 32.1,
+    "robbery": 114.5,
+    "assault": 184.9,
+    "burglary": 600.9,
+    "violent_crime": 332.9
+  },
+  {
+    "city": "Petaluma",
+    "population": 60933,
+    "murder_homicide": 1.6,
+    "rape": 47.6,
+    "robbery": 36.1,
+    "assault": 242.9,
+    "burglary": 318.4,
+    "violent_crime": 328.2
+  },
+  {
+    "city": "Downey",
+    "population": 114704,
+    "murder_homicide": 0.9,
+    "rape": 19.2,
+    "robbery": 163.9,
+    "assault": 141.2,
+    "burglary": 459.4,
+    "violent_crime": 325.2
+  },
+  {
+    "city": "La Mesa",
+    "population": 60681,
+    "murder_homicide": 0,
+    "rape": 34.6,
+    "robbery": 14.8,
+    "assault": 197.8,
+    "burglary": 553.7,
+    "violent_crime": 324.6
+  },
+  {
+    "city": "Elk Grove",
+    "population": 169742,
+    "murder_homicide": 0,
+    "rape": 30,
+    "robbery": 14.7,
+    "assault": 236.8,
+    "burglary": 219.7,
+    "violent_crime": 322.3
+  },
+  {
+    "city": "Chico",
+    "population": 91122,
+    "murder_homicide": 0,
+    "rape": 72.4,
+    "robbery": 62.6,
+    "assault": 186.6,
+    "burglary": 547.6,
+    "violent_crime": 321.5
+  },
+  {
+    "city": "Manteca",
+    "population": 77104,
+    "murder_homicide": 0,
+    "rape": 38.9,
+    "robbery": 118,
+    "assault": 159.5,
+    "burglary": 408.5,
+    "violent_crime": 316.5
+  },
+  {
+    "city": "Upland",
+    "population": 76956,
+    "murder_homicide": 1.3,
+    "rape": 23.4,
+    "robbery": 124.7,
+    "assault": 166.3,
+    "burglary": 874.5,
+    "violent_crime": 315.8
+  },
+  {
+    "city": "Redlands",
+    "population": 71485,
+    "murder_homicide": 0,
+    "rape": 51.8,
+    "robbery": 106.3,
+    "assault": 156.7,
+    "burglary": 700.8,
+    "violent_crime": 314.8
+  },
+  {
+    "city": "Garden Grove",
+    "population": 176230,
+    "murder_homicide": 2.3,
+    "rape": 21.6,
+    "robbery": 90.8,
+    "assault": 179.9,
+    "burglary": 488.6,
+    "violent_crime": 309.3
+  }
+]
